@@ -1,3 +1,9 @@
+"""
+Binary Search.
+Time Complexity: O(log n).
+Space Complexity: O(1) for iterative, O(log n) for recursive.
+Base assumption: The array is sorted in ascending order.
+"""
 from typing import Sequence, Any
 
 

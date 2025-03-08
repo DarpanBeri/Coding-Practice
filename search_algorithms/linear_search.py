@@ -1,3 +1,9 @@
+"""
+Linear Search.
+Time complexity: O(n).
+Space complexity: O(1).
+Base assumption: None.
+"""
 from typing import Sequence, Any
 
 
