@@ -7,7 +7,7 @@ def linear_search(array: Sequence[Any], target: Any) -> int:
 
     :param array: Array to be searched.
     :param target: Target to be found in the array.
-    :return: Index of the target if found, else -1.
+    :return: Index of the target if found, else None.
     """
     # Base code:
     # for index in range(len(array)):
@@ -19,4 +19,4 @@ def linear_search(array: Sequence[Any], target: Any) -> int:
     for array_index, array_element in enumerate(array):
         if array_element == target:
             return array_index
-    return -1
+    return None
