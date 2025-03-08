@@ -5,7 +5,7 @@ This project contains implementations of fundamental algorithms for online asses
 Project is structured via folders, and tests are implemented via Pytest.
 
 ## Project Structure
-
+```bash
 coding-practice/
 │── search_algorithms/
 │   ├── init.py
@@ -17,6 +17,7 @@ coding-practice/
 │── requirements.txt
 │── README.md
 │── .gitignore
+```
 
 ## How to run
 Clone the repository and install dependencies:
