@@ -1,0 +1,14 @@
+# Virtual Enviornment
+/.venv/
+
+# IDE / Editor files
+.idea/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+
+# Test and coverage reports
+.coverage
+htmlcov/
