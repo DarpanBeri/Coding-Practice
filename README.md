@@ -22,7 +22,7 @@ coding-practice/
 ## How to run
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/coding-practice.git
+git clone https://github.com/DarpanBeri/Coding-Practice
 cd coding-practice
 pip install -r requirements.txt
 ```
