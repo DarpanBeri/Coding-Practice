@@ -1,6 +1,8 @@
 """
 Linked Lists.
 Benefits: Can insert a node where ever in the list for O(n)
+TODO: Add type hints to class.
+TODO: Add test cases.
 """
 
 
